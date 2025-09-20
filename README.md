@@ -40,6 +40,12 @@ This multi-source approach allowed for a richer and more nuanced analysis of Def
 - Cult favorites vs commercial hits.
 - Live performance trends throughout Deftones' career.
 
+## Project Highlights
+🎧 Analysis of 109 songs across Deftones' discography.
+📊 Visuals like “Cult vs Mainstream” and “Digital Echoes”.
+🎨 Custom color segmentation inspired by Deftones’ aesthetic.
+📁 Includes .pbix and PDF for full dashboard experience.
+
 ## Why This Project Matters
 Music has always been more than just sound—it's emotion, identity, and atmosphere. As a lifelong fan of Deftones, I wanted to explore how data can capture the essence of a band's evolution, impact, and artistic depth. This dashboard is not just a technical exercise; it's a tribute to the sonic landscapes that shaped my life.
 By combining my growing skills in Power BI and data analytics with my passion for music, I created a project that bridges art and analysis. It reflects my transition from finance and controlling roles into the world of Data Science, with a focus on the music industry.
