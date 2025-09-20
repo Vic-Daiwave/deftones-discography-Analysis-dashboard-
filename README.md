@@ -11,7 +11,7 @@
 - Files Included
 - Contact & Portfolio
 
-## Project Overview
+## 📌Project Overview
 This project is a data-driven exploration of the discography of Deftones, one of the most influential alternative metal bands of the last three decades. Using Power BI, I created a dashboard that visualizes key aspects of their musical journey, including lyrical themes, album popularity, critical reception, and fan engagement.
 The goal was to transform raw musical data into meaningful insights through interactive visualizations. By combining structured data with artistic interpretation, this dashboard offers a unique perspective on how Deftones evolved sonically and culturally over time.
 This project also marks a milestone in my professional transition from finance and controlling roles into the field of Data Analytics, with a focus on creative industries like music. It showcases my ability to work with real-world datasets, apply DAX logic, and design compelling visual narratives that connect data with emotion.
